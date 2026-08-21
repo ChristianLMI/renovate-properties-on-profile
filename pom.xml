@@ -15,7 +15,7 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
 
-    <ok.version>4.8.0</ok.version>
+    <ok.version>4.12.0</ok.version>
   </properties>
 
   <dependencies>
